@@ -40,43 +40,43 @@
 </pre>
 
 
-# EBS 훈민정음 새론체(EBSHunMinJeonGeumSaeron)
+# EBS 훈민정음 새론체(EBSHunMinJeongEumSaeron)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/ebs/EBSHunMinJeonGeumSaeron.jpg" alt="EBSHunMinJeonGeumSaeron" style="width:300px">
+    <img src="https://webfontworld.github.io/ebs/EBSHunMinJeongEumSaeron.jpg" alt="EBSHunMinJeongEumSaeron" style="width:300px">
 </a>
 <pre>
 @font-face {
     font-family: 'EBSHunMinJeonGeumSaeron';
     font-weight: 300;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronLight.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronLight.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronLight.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronLight.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronLight.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronLight.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronLight.ttf') format("truetype");
     font-display: swap;
 } 
 @font-face {
-    font-family: 'EBSHunMinJeonGeumSaeron';
+    font-family: 'EBSHunMinJeongEumSaeron';
     font-weight: 400;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronRegular.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronRegular.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronRegular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronRegular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronRegular.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronRegular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronRegular.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronRegular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronRegular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronRegular.ttf') format("truetype");
     font-display: swap;
 } 
 @font-face {
-    font-family: 'EBSHunMinJeonGeumSaeron';
+    font-family: 'EBSHunMinJeongEumSaeron';
     font-weight: 600;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronSemiBold.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronSemiBold.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronSemiBold.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronSemiBold.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeonGeumSaeronSemiBold.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronSemiBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronSemiBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronSemiBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronSemiBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSHunMinJeongEumSaeronSemiBold.ttf') format("truetype");
     font-display: swap;
 } 
 </pre>
