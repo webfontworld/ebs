@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'EBSJuSiGyeong';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongLight.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongLight.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'EBSJuSiGyeong';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongMedium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongMedium.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongMedium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongMedium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongMedium.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'EBSJuSiGyeong';
+    font-weight: 600;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/ebs/EBSJuSiGyeongBold.ttf') format("truetype");
+    font-display: swap;
+} 
