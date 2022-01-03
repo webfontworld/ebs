@@ -1,7 +1,7 @@
 # EBS 훈민정음(EBSHunMinJeongEum)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/designhouse/EBSHunMinJeongEum.jpg" alt="EBSHunMinJeongEum" style="width:300px">
+    <img src="https://webfontworld.github.io/ebs/EBSHunMinJeongEum.jpg" alt="EBSHunMinJeongEum" style="width:300px">
 </a>
 <pre>
 @font-face {
